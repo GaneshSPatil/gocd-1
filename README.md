@@ -1,6 +1,6 @@
 # gocd
 
-[![Gem Version](https://badge.fury.io/rb/gocd.svg)](https://badge.fury.io/rb/gocd)
+[![Gem Version](https://badge.fury.io/rb/gocd.svg)](https://badge.fury.io/rb/gocd) [![CircleCI](https://circleci.com/gh/GaneshSPatil/gocd-1.svg?style=shield)](https://circleci.com/gh/GaneshSPatil/gocd-1)
 
 ### Installation
 ```ruby
